@@ -5,4 +5,7 @@ evidence                                                                 -----  
     none                                                                      -----  词性  </br> 
       1.证明;证据                                                             ------ 该词性下的一个中文意思  </br> 
       the facts, signs or objects that make you believe that sth is true    ------ 对应的英语解释  </br> 
+      
+      例句:
+      We found further scientific evidence for this theory.
         ...
